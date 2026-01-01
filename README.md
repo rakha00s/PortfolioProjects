@@ -6,7 +6,7 @@ I specialize in transforming complex datasets into actionable business intellige
 
 ---
 
-## 🛠 My Data Toolkit
+## My Data Toolkit
 
 **Languages & Querying:** ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -38,9 +38,9 @@ I specialize in transforming complex datasets into actionable business intellige
 
 ## 📫 Let's Talk Data!
 
-- 💼 LinkedIn: [https://www.linkedin.com/in/rakha00s/](https://www.linkedin.com/in/rakha00s/)
-- 📝 Portfolio: [Link to Personal Site or Medium Blog]
-- 📧 Email: [rakha150@gmail.com](mailto:rakha150@gmail.com)
+- LinkedIn: [https://www.linkedin.com/in/rakha00s/](https://www.linkedin.com/in/rakha00s/)
+- Portfolio: [Link to Personal Site or Medium Blog]
+- Email: [rakha150@gmail.com](mailto:rakha150@gmail.com)
 
 ---
 > "In God we trust, all others must bring data." – W. Edwards Deming
