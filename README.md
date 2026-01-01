@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋 
+# Hi, I'm Ahmad Rakha Hidayat 👋 
 
 ### Data Analyst | Insight Seeker | Data Storyteller
 
